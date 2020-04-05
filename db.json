@@ -1,0 +1,15 @@
+{
+  "guests": [
+    {
+      "id": 190000001,
+      "guestId": 190000001,
+      "firstName": "Lionel",
+      "lastName": "Messi"
+    }, {
+      "id": 190000002,
+      "guestId": 190000002,
+      "firstName": "Christian",
+      "lastName": "Ronaldo"
+    }
+  ]
+}

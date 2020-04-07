@@ -11,5 +11,13 @@
       "firstName": "Christian",
       "lastName": "Ronaldo"
     }
-  ]
+  ],
+  "applicationToken": {
+    "access_token": "82a9b929-e4a2-4ab2-9d59-7fa81ae85206",
+    "expires": 3897
+  },
+  "guestToken": {
+    "access_token": "df1f6e16-b8ba-4ea3-bcf0-9f3a9164b158",
+    "expires": 3605
+  }
 }
